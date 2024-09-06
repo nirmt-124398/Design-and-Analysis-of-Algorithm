@@ -29,7 +29,7 @@ int binarySearch(vector<int>& studentroll_num,int left,int right,int target)
 
 int main()
 {
-    vector<int> roll={2302721,2302722,2302723,2302724,2302725,2302726,2302727,2302728,2302729,2302730,};
+    vector<int> roll={2302721,2302722,2302723,2302724,2302725,2302726,2302727,2302728,2302729,2302730};
     int target=0;
 
 do {
